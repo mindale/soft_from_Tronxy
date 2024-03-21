@@ -22,6 +22,6 @@ Marlin 2.0 takes this popular RepRap firmware to the next level by adding suppor
 
 ## Configuration my 3d printer
 
-Motherboatd = v6 - 191017
-default_envs = chitu_f103
-name in define in conf.h = MOTHERBOARD BOARD_CHITU3D_V9
+Motherboatd = v6 - 191017;
+default_envs = chitu_f103;
+name in define in conf.h = MOTHERBOARD BOARD_CHITU3D_V9;
